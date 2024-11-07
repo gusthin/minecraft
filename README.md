@@ -1,7 +1,9 @@
 # minecraft
-nenhuma
+especialidades e projetos:
 
- quase nunca uso o github mesmo
+ - programador em HTML, javaScript e engenharia 3d
+ - fazendo site de vídeos com HTML
+ - quase terminando minecraft 2d no scratch
 
 # ![](https://media.tenor.com/FX3lbld5m0UAAAAi/minecraft.gif)
 # ![](https://media.tenor.com/dceEYDCmpggAAAAi/sonic-exe.gif)
